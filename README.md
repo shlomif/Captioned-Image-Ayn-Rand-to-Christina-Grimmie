@@ -1,7 +1,12 @@
-Captioned-Image-Ayn-Rand-to-Christina-Grimmie
-=============================================
+# Captioned Image: Ayn Rand to Christina Grimmie
 
-A captioned image reading "If Ayn Rand was born in the 1990s, she would be Christina Grimmie!".
+## Preview
+
+![Captioned image](./Ayn_Rand--to--Christina_Grimmie.svg.webp)
+
+## About
+
+A captioned image reading "If Ayn Rand was born in the 1990s, she would be Christina Grimmie.".
 
 Photo credits:
 
@@ -9,7 +14,7 @@ Photo credits:
 https://en.wikipedia.org/wiki/File:Ayn_Rand1.jpg .
 
 2. Christina Grimmie still taken from her cover video for Bruno Mars’
-“Locked out of Heaven” - https://www.youtube.com/watch?v=pQJXyOvKNK0 
+“Locked out of Heaven” - https://www.youtube.com/watch?v=pQJXyOvKNK0
 
 Midrash/study/explanation of the image can be found here:
 
