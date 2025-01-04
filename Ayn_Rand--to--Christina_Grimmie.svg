@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Ayn_Rand→Christina_Grimmie.svg">
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="Ayn_Rand--to--Christina_Grimmie.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,17 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0979788"
+     inkscape:zoom="0.68512534"
      inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:cy="371.46488"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
-     inkscape:window-x="-5"
-     inkscape:window-y="-10"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,56 +60,58 @@
        y="319.07645"
        x="710.28571"
        id="image3082"
-       xlink:href="./ayn_rand__from_wikip.png"
+       xlink:href="ayn_rand__from_wikip.png"
        height="358"
        width="288" />
     <image
        y="703.19702"
        x="700.89374"
        id="image3212"
-       xlink:href="./christina_grimmie_from_video.jpg"
+       xlink:href="christina_grimmie_from_video.jpg"
        height="312.36002"
        width="304.55103" />
     <text
        xml:space="preserve"
-       style="font-size:93.09394836px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-       x="17.694366"
-       y="368.96024"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0819px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84016"
+       x="47.098152"
+       y="381.52917"
        id="text3215"
-       sodipodi:linespacing="125%"
-       transform="scale(0.91877157,1.0884098)"><tspan
+       transform="scale(0.91877158,1.0884098)"><tspan
          sodipodi:role="line"
          id="tspan3217"
-         x="17.694366"
-         y="368.96024">If Ayn Rand</tspan><tspan
+         x="47.098152"
+         y="381.52917"
+         style="font-size:78.2138px;line-height:1.25;stroke-width:0.84016">If Ayn Rand</tspan><tspan
          sodipodi:role="line"
-         x="17.694366"
-         y="485.32767"
-         id="tspan3219">was born</tspan><tspan
+         x="47.098152"
+         y="479.29642"
+         id="tspan3219"
+         style="font-size:78.2138px;line-height:1.25;stroke-width:0.84016">was born</tspan><tspan
          sodipodi:role="line"
-         x="17.694366"
-         y="601.69507"
-         id="tspan3221">in the 1990s,</tspan><tspan
+         x="47.098152"
+         y="577.06366"
+         id="tspan3221"
+         style="font-size:78.2138px;line-height:1.25;stroke-width:0.84016">in the 1990s,</tspan><tspan
          sodipodi:role="line"
-         x="17.694366"
-         y="718.0625"
-         id="tspan3223">she would be</tspan><tspan
+         x="47.098152"
+         y="674.83093"
+         id="tspan3223"
+         style="font-size:78.2138px;line-height:1.25;stroke-width:0.84016">she would be</tspan><tspan
          sodipodi:role="line"
-         x="17.694366"
-         y="834.42999"
-         id="tspan3225">Christina Grimmie.</tspan></text>
+         x="47.098152"
+         y="772.59814"
+         id="tspan3225"
+         style="font-size:78.2138px;line-height:1.25;stroke-width:0.84016">Christina Grimmie.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-       x="23.679873"
-       y="694.91321"
-       id="text3227"
-       sodipodi:linespacing="125%"
-       transform="translate(0,308.2677)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="43.666092"
+       y="963.18091"
+       id="text3227"><tspan
          sodipodi:role="line"
          id="tspan3229"
-         x="23.679873"
-         y="694.91321"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono">  #TeamGrimmie</tspan></text>
+         x="43.666092"
+         y="963.18091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000">#TeamGrimmie</tspan></text>
   </g>
 </svg>
